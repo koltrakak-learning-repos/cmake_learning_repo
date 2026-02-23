@@ -1,0 +1,3 @@
+/home/kevin/Git_learning_repos/cmake_learning_repo/cmake-tutorial-source/Step0/build/CMakeFiles/hello.dir
+/home/kevin/Git_learning_repos/cmake_learning_repo/cmake-tutorial-source/Step0/build/CMakeFiles/edit_cache.dir
+/home/kevin/Git_learning_repos/cmake_learning_repo/cmake-tutorial-source/Step0/build/CMakeFiles/rebuild_cache.dir
